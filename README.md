@@ -26,6 +26,13 @@
 ### Sample Output
 -----
 Here's one panorama stitching coming from the UKF estimation:
-![Panorama stitching](https://github.com/DianCh/Quaternion_based_UKF/blob/master/results/panorama_8.png)
 
-![Curve](https://github.com/DianCh/Quaternion_based_UKF/blob/master/results/Euler_results_8.png)
+<p align="center"> 
+<img src="https://github.com/DianCh/Quaternion_based_UKF/blob/master/results/panorama_8.png" width="700">
+</p>
+
+<p align="center"> 
+<img src="https://github.com/DianCh/Quaternion_based_UKF/blob/master/results/Euler_results_8.png" width="400">
+</p>)
+
+A detailed report for this project can also be found [here](https://github.com/DianCh/Quaternion_based_UKF/blob/master/results/report.pdf).
